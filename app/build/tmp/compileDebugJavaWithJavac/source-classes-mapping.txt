@@ -1,0 +1,8 @@
+com/example/app4_encuestalikert/BuildConfig.java
+ com.example.app4_encuestalikert.BuildConfig
+com/example/app4_encuestalikert/Mensajes.java
+ com.example.app4_encuestalikert.Mensajes
+com/example/app4_encuestalikert/Operaciones.java
+ com.example.app4_encuestalikert.Operaciones
+com/example/app4_encuestalikert/MainActivity.java
+ com.example.app4_encuestalikert.MainActivity
